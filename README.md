@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelaevez
 - 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning Html, CSS, and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on front-end web projects.
 - 📫 You can reach me at angelazarrabi@gmail.com
 
